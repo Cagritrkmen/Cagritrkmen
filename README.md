@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Book-Swap Project](https://github.com/Cagritrkmen/Book-Swap-Project)
 
-- 🌱 I’m currently learning **NodeJS, ExpressJs, MongoDB, VueJS**
+- 🌱 I’m currently learning **NodeJS, ExpressJs, MongoDB, React**
 
 - 📫 How to reach me **cagritrkmn33@gmail.com**
 
